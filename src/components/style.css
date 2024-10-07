@@ -1,0 +1,34 @@
+.upload-button{
+    position: relative;
+    left:15vw;
+    top:5vh;
+    width:45vw;
+    height:5vh;
+    border-radius: 45px 45px 45px 45px;
+    background-color: green;
+    color:white;
+}
+
+.loading-animation{
+    position: relative;
+    left:45vw;
+    top:25vh;
+    height:35px;
+    color:black;
+}
+
+.image-style{
+    position: relative;
+    left:45vw;
+    top:15vh;
+}
+
+.results{
+    position: relative;
+    left:15vw;
+    top:45vh;
+}
+
+.list{
+    list-style: none;
+}
